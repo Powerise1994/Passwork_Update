@@ -20,7 +20,7 @@ The system will automatically upload the changes.
 
 ### Re-download all files Passvorka
 _If you previously installed Passwork without using the git utility (downloaded the archive and unpacked it)._   
-Rename the folder with Passvork, instead create a new empty folder with the same name.
+Rename the folder with Passwork, instead create a new empty folder with the same name.
 
 #### 1. Select the installation option:
 #### a) using the Git utility (recommended)
