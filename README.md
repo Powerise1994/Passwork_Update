@@ -1,11 +1,11 @@
-# Passwork update instuction
+# Passwork update instruction
 
 ### Repository
-The repository is located at: `https://passwork.download/`
+The repository is located at `https://passwork.download/`
 
 ### Preparing for the upgrade
 Make a copy of the folder with the Passwork files.  
-In case of any problems you can roll back to your version.  
+In case of any problems, you can roll back to your version.  
 Files are located in the directory:  
 For Windows: `С:\inetpub\wwwroot\`   
 For Linux: `/var/www/` 
@@ -18,7 +18,7 @@ Run the command:
 `git pull`   
 The system will automatically upload the changes.
 
-### Re-download all files Passvorka
+### Re-download all files Passwork
 _If you previously installed Passwork without using the git utility (downloaded the archive and unpacked it)._   
 Rename the folder with Passwork, instead create a new empty folder with the same name.
 
